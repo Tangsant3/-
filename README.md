@@ -92,7 +92,21 @@
     <p>在整个事件中，能给各方带来最大利益的策略。</p>
     <h2>常见的博弈</h2>
     <p>囚徒困境/智猪博弈
-
+    <h5>囚徒困境</h5>
+    <p>
+<table frame="hsides">
+  <tr>
+    <th>A/B</th>
+    <th>坦白</th>
+    <th>抵赖</th>
+  </tr>
+  <tr>
+    <td>坦白</td>
+    <td>抵赖</td>
+    <td>抵赖</td>
+  </tr>
+</table>
+</p>
   </body>
   </html>
 
