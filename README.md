@@ -101,9 +101,8 @@
     <th>抵赖</th>
   </tr>
   <tr>
-    <td>坦白</td>
-    <td>抵赖</td>
-    <td>抵赖</td>
+    <th>坦白</th>
+    <td>0</td>
   </tr>
 </table>
 </p>
